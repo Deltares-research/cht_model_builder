@@ -11,5 +11,6 @@ authors = [
 requires-python = ">=3.10"
 dependencies = [
     "shapely",
+    "cht_bathymetry",
     "cht_utils",
 ]
